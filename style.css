@@ -5,8 +5,7 @@ body {
     display:flex;
     flex-direction: column;
     margin: 0;
-    align-items: center;
-    
+    align-items: center;  
 }
 
 .header-background {
@@ -14,8 +13,8 @@ body {
     background-color: #1F2937;
     width: 100%;
     justify-content: center;
-
 }
+
 .header {
     display:flex;
     flex:1;
@@ -46,7 +45,6 @@ body {
 }
  ul {
     display:flex;
-
  }
 
 li {
