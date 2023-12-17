@@ -70,7 +70,6 @@ button {
     border-radius: 10px;
 }
 
-
 .container-1 {
     flex:1;
     justify-content: center;
@@ -131,7 +130,6 @@ button {
     background: white;
     margin-bottom: 50px;
     width: 100%;
-
 }
 .header-2 {
     display: flex;
@@ -141,7 +139,6 @@ button {
     font-weight: bold;
     color: black;
 }
-
 .content-2 {
     display: flex;
     flex-direction: row;
@@ -149,7 +146,6 @@ button {
     flex-wrap: wrap;
     align-items: center;
     width: 100%;
-
     gap: 10px;
 }
 
@@ -250,7 +246,6 @@ margin:0;
     justify-content: center;
 }   
 
-
 .button-4 {
 flex-shrink: 0;
 border-style: solid;
@@ -265,6 +260,5 @@ border-width: 2px;
     color: white;
     background-color: #1F2937;
     width: 100%;
-
     font-size: 18px;
 }
